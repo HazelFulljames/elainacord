@@ -12,7 +12,6 @@ import path from 'path';
 import express from "express";
 import session from "express-session";
 import MongoStore from "connect-mongo";
-import fs from "fs";
 const saltRounds = 12;
 
 
